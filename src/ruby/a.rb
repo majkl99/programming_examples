@@ -1,3 +1,2 @@
 puts "OK"
-puts
 

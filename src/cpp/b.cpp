@@ -11,6 +11,6 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-   cout << "OK b" << endl;
+   cout << "OK b 3" << endl;
 }
 
